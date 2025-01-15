@@ -12,7 +12,7 @@ I graduated from Jilin University with a bachelor’s degree in Software Enginee
 
 Hi~ 这里是kiyoumiii，你可以叫我kiyoumi，或者称呼我的笔名：米面包 或者 熊小哒
 
-我于两年前在吉林大学软件工程专业学习并取得学士学位，之后经推荐免试到南京大学匡亚明荣誉学院/脑科学研究院研读硕士，成为了南京大学心智发展与脑功能实验室的一名成员，目前研二在读，研究方向为 AI for Science ，具体课题涉及：脑科学与人工智能、基于生成式的AI蛋白质结构设计。正在努力转行成为一位优秀的前端开发工程师~
+我于两年前在吉林大学软件工程专业学习并取得学士学位，之后经推荐免试到南京大学匡亚明荣誉学院/脑科学研究院研读硕士，成为了南京大学心智发展与脑功能实验室的一名成员，目前研二在读，研究方向为 AI for Science ，具体课题涉及：脑科学与人工智能、基于生成式模型的AI蛋白质结构设计。正在努力转行成为一位优秀的前端开发工程师~
 
 Follow me and feel free to hit that star button! 😽
 
