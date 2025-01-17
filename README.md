@@ -16,3 +16,29 @@ Hi~ 这里是kiyoumiii，你可以叫我kiyoumi，或者称呼我的笔名：米
 
 Follow me and feel free to hit that star button! 😽
 
+
+
+### More About Me👇
+
+I am a serial entrepreneur and have been involved in development roles at two AI startup companies over the past two years. These companies are ShengSheng Technology, which focuses on consciousness uploading in digital life, and LinCheng Technology, which is dedicated to using AI technology to address employment difficulties. I welcome you to experience the two products that I have developed!
+
+
+
+🌃everlasting.chat [人生数据库](http://everlasting.chat/) 
+
+(Tips: So Sorry! The currently deployed version 2.0.0 has recently encountered some issues.The team is unable to find a suitable profit point and has not done a good job with maintenance. I may deploy and showcase version 1.0.0 in my personal time.)
+
+👌OK简历 [okjob](https://okjob.linchance.com/)
+
+A good resume will safeguard your professional journey.
+
+
+
+Given the limited resources in startup companies, I took on multiple roles in both companies. At the first company, besides being a front-end developer, I also handled product management and operations. At the second company, I served as both a front-end developer engineer and a test developer engineer.
+
+
+
+### More Early💫
+
+A few years ago, I interned as a product manager (PM) at Baidu, but due to personal choices, I have decided to transition to a technical role.
+
