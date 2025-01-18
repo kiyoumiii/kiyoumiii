@@ -26,8 +26,11 @@ I am a serial entrepreneur and have been involved in development roles at two AI
 (Tips: So Sorry! The currently deployed version 2.0.0 has recently encountered some issues.The team is unable to find a suitable profit point and has not done a good job with maintenance. I may deploy and showcase version 1.0.0 in my personal time.)
 
 👌OK简历 [okjob](https://okjob.linchance.com/)
-
 A good resume will safeguard your professional journey.
+
+- 2024 拯救者杯OPENAIGC开发者大赛 高校组特等奖
+- 2024 第二届中国生成式AI应用创新挑战赛 大学生及个人开发者组 全国Top9
+- 2023 百度搜索创新大赛 设计一个解决搜索用户需求的AI原生应用赛道 全国冠军
 
 
 
