@@ -8,7 +8,7 @@ My blog: [kiyoumi's blog](https://kiyoumiii.github.io/)
 
 My RedNote: [kiki优米 - 小红书](https://www.xiaohongshu.com/user/profile/63394132000000001901da29?m_source=mengfanwetab)
 
-I graduated from Jilin University with a bachelor’s degree in Software Engineering a couple of years ago, and I was honored to be admitted to Nanjing University’s Kuang Yaming Honors College / Institute of Brain Science through a recommendation program. I’m also a member of the Mind Development and Brain Function Lab at Nanjing University. Currently, I’m in my second year of graduate school, In our Scientific Intelligence Research Group, I lead the research direction of AI for BioPhysics (AI for 生物物理), focusing on brain science and artificial intelligence, with a particular emphasis on generative AI for protein structure design. Meanwhile, I’m working hard to transition into becoming a fantastic front-end developer!
+I graduated from Jilin University with a bachelor’s degree in Software Engineering a couple of years ago, and I was honored to be admitted to Nanjing University’s Kuang Yaming Honors College / Institute of Brain Science through a recommendation program. I’m also a member of the Mind Development and Brain Function Lab at Nanjing University. Currently, I’m in my second year of graduate school, In our Scientific Intelligence Research Group, I lead the research direction of AI for BioPhysics, focusing on brain science and artificial intelligence, with a particular emphasis on generative AI for protein structure design. Meanwhile, I’m working hard to transition into becoming a fantastic front-end developer!
 
 
 Follow me and feel free to hit that star button! 😽
@@ -36,6 +36,7 @@ A resume polishing tool designed specifically for job seekers, utilizing a hybri
 - 2023 百度搜索创新大赛 设计一个解决搜索用户需求的AI原生应用赛道 全国冠军
 
 
+They cannot be open-sourced yet, but everyone is welcome to use them and provide feedback!
 
 Given the limited resources in startup companies, I took on multiple roles in both companies. At the first company, besides being a front-end developer, I also handled product management and operations. At the second company, I served as both a front-end developer engineer and a test developer engineer.
 
