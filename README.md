@@ -41,7 +41,7 @@ They cannot be open-sourced yet, but everyone is welcome to use them and provide
 Given the limited resources in startup companies, I took on multiple roles in both companies. At the first company, besides being a front-end developer, I also handled product management and operations. At the second company, I served as both a front-end developer engineer and a test developer engineer.
 
 
-### My Research Exp
+### My Research Exp 🔮
 
 My scientific research project: DA2-VAE-MC, is an enhanced sampling method based on generative models, applicable to the study of protein molecular dynamics. In 2024, Nobel Prize-winning AlphaFold can provide accurate structural predictions, but it is merely an effective tool for static structures and is powerless in exploring dynamic change processes such as protein folding trajectories. I focus on enhanced sampling methods to address the scientific issue of dynamic change pathways. This method combines traditional computational simulations with contemporary generative artificial intelligence, making it a genuinely innovative endeavor!
 
