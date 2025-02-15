@@ -23,6 +23,8 @@ I am a serial entrepreneur and have been involved in development roles at two AI
 
 🌃everlasting.chat [人生数据库](http://everlasting.chat/) 
 
+（This website is currently out of service）
+
 Based on the Minimax's digital life dialogue model 5.5s, we support users in customizing their own personalized digital life. We strongly encourage everyone to create a digital avatar for themselves, uploading your experiences, memories, and works. Your digital avatar will become increasingly similar to you over time, and simultaneously, you can treat the platform as your life's database!
 
 (Tips: So Sorry! The currently deployed version 2.0.0 has recently encountered some issues.The team is unable to find a suitable profit point and has not done a good job with maintenance. I may deploy and showcase version 1.0.0 in my personal time.)
