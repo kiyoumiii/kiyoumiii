@@ -43,7 +43,7 @@ Given the limited resources in startup companies, I took on multiple roles in bo
 
 ### My Research Exp 🔮
 
-My scientific research project: DA2-VAE, is an enhanced sampling method based on generative models, applicable to the study of protein molecular dynamics. In 2024, Nobel Prize-winning AlphaFold can provide accurate structural predictions, but it is merely an effective tool for static structures and is powerless in exploring dynamic change processes such as protein folding trajectories. I focus on enhanced sampling methods to address the scientific issue of dynamic change pathways. This method combines traditional computational simulations with contemporary generative artificial intelligence, making it a genuinely innovative endeavor!
+My scientific research project: DEDGS, is an enhanced sampling method based on generative models, applicable to the study of protein molecular dynamics. In 2024, Nobel Prize-winning AlphaFold can provide accurate structural predictions, but it is merely an effective tool for static structures and is powerless in exploring dynamic change processes such as protein folding trajectories. I focus on enhanced sampling methods to address the scientific issue of dynamic change pathways. This method combines traditional computational simulations with contemporary generative artificial intelligence, making it a genuinely innovative endeavor!
 
 
 
