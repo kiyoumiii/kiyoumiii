@@ -20,7 +20,14 @@ Follow me and feel free to hit that star button! 😽
 
 **Update**: Recently, I've been knee-deep in developing a super cool WeChat mini-program😎! It's called "百无禁忌", and it's just brimming with traditional aesthetics and a sense of mystery✨. This is a self-learning mini-program focused on traditional Chinese culture. Here, you can explore knowledge systems like Ziwei Star Astrology（紫微星斗）, Liuren Divination（六壬）, and Plum Blossom Divination（梅花易数）🧐, which are all part of traditional Chinese culture or even the mysterious world of metaphysics. It's a mini - program that uses AI to build its knowledge base, a real - deal large - model application development project👏. Every fortune-teller out there, we warmly welcome you to join in and experience it for yourself🎉!
 
--*-*-*-*-*-*-*- my past projects -*-*-*-*-*-*-*-
+<div>
+  <img 
+    src="wx-uniapp/baiwujinji.png" 
+    style="width: 10%; height: auto;"
+    alt="图片描述">
+</div>
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* my past projects -*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 I am a serial entrepreneur and have been involved in development roles at two AI startup companies over the past two years. These companies are ShengSheng Technology, which focuses on consciousness uploading in digital life, and LinCheng Technology, which is dedicated to using AI technology to address employment difficulties. I welcome you to experience the two products that I have developed!
 
