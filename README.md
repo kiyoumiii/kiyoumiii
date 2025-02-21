@@ -23,11 +23,11 @@ Follow me and feel free to hit that star button! 😽
 <div>
   <img 
     src="wx-uniapp/baiwujinji.png" 
-    style="width: 10%; height: auto;"
+    style="width: 20%; height: auto;"
     alt="图片描述">
 </div>
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* my past projects -*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+<br>
 
 I am a serial entrepreneur and have been involved in development roles at two AI startup companies over the past two years. These companies are ShengSheng Technology, which focuses on consciousness uploading in digital life, and LinCheng Technology, which is dedicated to using AI technology to address employment difficulties. I welcome you to experience the two products that I have developed!
 
