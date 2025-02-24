@@ -32,6 +32,15 @@ Follow me and feel free to hit that star button! 😽
 I am a serial entrepreneur and have been involved in development roles at two AI startup companies over the past two years. These companies are ShengSheng Technology, which focuses on consciousness uploading in digital life, and LinCheng Technology, which is dedicated to using AI technology to address employment difficulties. I welcome you to experience the two products that I have developed!
 
 
+👌OK简历 [okjob](https://okjob.linchance.com/)
+
+A resume polishing tool designed specifically for job seekers, utilizing a hybrid large language model from multiple companies. It supports online resume editing, AI-assisted optimization, multiple template options, and one-click export and printing. It helps to ensure your resume stands out and gives you an advantage in your job search.
+
+- 2024 拯救者杯OPENAIGC开发者大赛 高校组特等奖
+- 2024 第二届中国生成式AI应用创新挑战赛 大学生及个人开发者组 全国Top9
+- 2023 百度搜索创新大赛 设计一个解决搜索用户需求的AI原生应用赛道 全国冠军
+
+
 
 🌃everlasting.chat [人生数据库](http://everlasting.chat/) 
 
@@ -40,14 +49,6 @@ I am a serial entrepreneur and have been involved in development roles at two AI
 Based on the Minimax's digital life dialogue model 5.5s, we support users in customizing their own personalized digital life. We strongly encourage everyone to create a digital avatar for themselves, uploading your experiences, memories, and works. Your digital avatar will become increasingly similar to you over time, and simultaneously, you can treat the platform as your life's database!
 
 (Tips: So Sorry! The currently deployed version 2.0.0 has recently encountered some issues.The team is unable to find a suitable profit point and has not done a good job with maintenance. I may deploy and showcase version 1.0.0 in my personal time.)
-
-👌OK简历 [okjob](https://okjob.linchance.com/)
-
-A resume polishing tool designed specifically for job seekers, utilizing a hybrid large language model from multiple companies. It supports online resume editing, AI-assisted optimization, multiple template options, and one-click export and printing. It helps to ensure your resume stands out and gives you an advantage in your job search.
-
-- 2024 拯救者杯OPENAIGC开发者大赛 高校组特等奖
-- 2024 第二届中国生成式AI应用创新挑战赛 大学生及个人开发者组 全国Top9
-- 2023 百度搜索创新大赛 设计一个解决搜索用户需求的AI原生应用赛道 全国冠军
 
 
 They cannot be open-sourced yet, but everyone is welcome to use them and provide feedback!
