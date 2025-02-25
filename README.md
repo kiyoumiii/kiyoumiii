@@ -53,8 +53,6 @@ Based on the Minimax's digital life dialogue model 5.5s, we support users in cus
 
 They cannot be open-sourced yet, but everyone is welcome to use them and provide feedback!
 
-Given the limited resources in startup companies, I took on multiple roles in both companies. At the first company, besides being a front-end developer, I also handled product management and operations. At the second company, I served as both a front-end developer engineer and a test developer engineer.
-
 
 ### My Research Exp 🔮
 
