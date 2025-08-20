@@ -15,6 +15,13 @@ Follow me and feel free to hit that star button! 😽
 
 ### More About Me👇
 
+### My Intern Exp
+
+2025.05-2025.09 
+I worked as an intern at Alibaba - Taobao & Tmall Group - Search & Recommendation Intelligent Products Division - Future Life Lab, where I was exposed to AI Agent development.
+
+
+### My Project Exp
 
 Recently, I've been knee-deep in developing a super cool WeChat mini-program😎! It's called "百无禁忌", and it's just brimming with traditional aesthetics and a sense of mystery✨. This is a self-learning mini-program focused on traditional Chinese culture. Here, you can explore knowledge systems like Ziwei Star Astrology and Plum Blossom Divination 🧐, which are all part of traditional Chinese culture or even the mysterious world of metaphysics. It's a mini-program that uses AI to build its knowledge base, a real-deal large-model application development project👏. Every fortune-teller out there, we warmly welcome you to join in and experience it for yourself🎉!The AI Fortune Teller feature is about to launch! It’s here to bring you good luck, guide you in life, and help you ease your worries. Feel free to ask the AI model anything—it’s ready to serve you!
 
