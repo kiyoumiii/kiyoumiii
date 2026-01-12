@@ -18,7 +18,7 @@ Follow me and feel free to hit that star button! 😽
 ### My Intern Exp
 
 2025.05-2025.09 
-I worked as an intern at Alibaba - Taobao & Tmall Group - Search & Recommendation Intelligent Products Division - Future Life Lab, where I was exposed to AI Agent development.
+I worked as an intern at Alibaba - Taobao & Tmall Group - Search & Recommendation Intelligent Products Division - Future Living Lab, where I was exposed to AI Agent development.
 
 
 ### My Project Exp
